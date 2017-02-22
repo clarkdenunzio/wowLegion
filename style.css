@@ -1,0 +1,24 @@
+#header1 {
+  background: url('http://media.blizzard.com/wow/legion-6a153ad2/images/header-illidan-still.jpg');
+  background-size: contain;
+  display: block;
+}
+
+#header2 {
+  background: url('http://us.battle.net/wow/static/images/seven-oh/header-video-base.jpg');
+  background-size: contain;
+  display: block;
+}
+
+p{
+  padding-top: 25px;
+  text-align: center;
+  color: white;
+  font-size: large;
+}
+
+#header3 {
+  background: url('http://media.blizzard.com/wow/legion-6a153ad2/images/demon-hunters-still.jpg');
+  background-size: contain;
+  display: block;
+}
